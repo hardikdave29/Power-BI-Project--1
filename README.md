@@ -1,5 +1,6 @@
-**Adventure Works Dashboard Summary**
+# Adventure Works Dashboard
 
+This dashboard provides a comprehensive overview of Adventure Works’ business performance, enabling data-driven decision-making for future growth and optimization.
 ---
 
 ### **Overall Performance**
@@ -7,19 +8,25 @@
 - **Orders:** 25.2K
 - **Profit:** $10.5M
 - **Return Rate:** 2.2%
+
 ![Image](https://github.com/user-attachments/assets/54fff3e0-72f1-4be3-9e5f-409279dce3da)
+
 ---
 
 ### **Revenue Trends**
 - **Revenue Growth:** Consistently increasing with an upward trend.
 - **Monthly Revenue:** $1.83M (+3.31% from the previous month).
+
 ![Image](https://github.com/user-attachments/assets/8de56f5e-7f9f-4b3a-9be1-ad5e317f6b9c)
+
 ---
 
 ### **Orders & Returns**
 - **Monthly Orders:** 2,146 (-0.88% from the previous month).
 - **Monthly Returns:** 166 (-99.99% from the previous month, indicating a drastic improvement).
+
 ![Image](https://github.com/user-attachments/assets/eb2a47b1-3e88-4642-be73-b616a4213c41)
+
 ---
 
 ### **Orders by Category**
@@ -61,7 +68,9 @@
 ### **Profit Trends**
 - Profit remains stable but fluctuates.
 - Peaks around the middle of the timeframe before declining.
+
 ![Image](https://github.com/user-attachments/assets/d3b076fb-2638-4736-938d-79a0b7876be3)
+
 ---
 
 ### **Return Trends**
@@ -101,7 +110,9 @@
 - **Professionals:** 7.93K customers (largest segment).
 - **Management:** 4.38K customers.
 - **Skilled Manual Workers:** 5.95K customers.
+
 ![Image](https://github.com/user-attachments/assets/879c8f2f-7260-4e17-b0cb-d3f967572e1b)
+
 ---
 
 ### **Strategic Recommendations**
@@ -111,5 +122,4 @@
 
 ---
 
-This dashboard provides a comprehensive overview of Adventure Works’ business performance, enabling data-driven decision-making for future growth and optimization.
 
