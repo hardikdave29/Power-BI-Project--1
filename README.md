@@ -1,4 +1,4 @@
-# Adventure Works Dashboard
+# Adventure Works Sales Dashboard Year to Date
 
 This dashboard provides a comprehensive overview of Adventure Works’ business performance, enabling data-driven decision-making for future growth and optimization.
 ---
